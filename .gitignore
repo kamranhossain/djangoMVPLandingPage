@@ -1,0 +1,10 @@
+.idia
+l/
+bin/
+include/
+lib/
+local/
+share/
+pip-selfcheck.json
+.DS_STORE
+.Python
